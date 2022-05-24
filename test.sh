@@ -1,1 +1,1 @@
-echo "hello"
+echo "# mmm-test-bot" >> README.md
