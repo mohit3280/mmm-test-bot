@@ -1,1 +1,0 @@
-echo "# mmm-test-bot" >> README.md
